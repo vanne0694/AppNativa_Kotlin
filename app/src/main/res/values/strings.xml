@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi primera app nativa</string>
+    <string name="saludo">Hola Vanne</string>
+</resources>
